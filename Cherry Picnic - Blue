@@ -77,7 +77,7 @@
   display: block;
   width: 130px;
   height: 80px;
-  background: url("https://raw.githubusercontent.com/eydzeyy/ao3skins/refs/heads/main/picnic.png") no-repeat center;
+  background: url("https://raw.githubusercontent.com/eydzeyy/ao3skins/refs/heads/main/Roll picnic.png") no-repeat center;
   background-size: contain;
 }
 
