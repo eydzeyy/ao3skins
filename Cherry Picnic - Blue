@@ -77,7 +77,7 @@
   display: block;
   width: 130px;
   height: 80px;
-  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/sparkle.png") no-repeat center;
+  background: url("https://github.com/eydzeyy/ao3photos/blob/main/picnic.jpg") no-repeat center;
   background-size: contain;
 }
 
